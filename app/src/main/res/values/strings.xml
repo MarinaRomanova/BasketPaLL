@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">BasketPaLL</string>
+    <string name="welcomeMessage">Welcome to</string>
+    <string name="basketPaLL">BasketPaLL!</string>
+    <string name="subtitle">your score counter</string>
+    <string name="enter_button">Enter</string>
+    <string name="enterTeam1">Enter Team 1</string>
+    <string name="enterTeam2">Enter Team 2</string>
+    <string name="play_button">Play</string>
+    <string name="share_button">share</string>
+    <string name="reset_button">reset</string>
+    <string name="end_button">end</string>
+    <string name="team2">Team 2</string>
+    <string name="team1">Team 1</string>
+    <string name="enterErrorMessage">Please enter team 1 and team 2</string>
+    <string name="scored_message">scored</string>
+    <string name="team1_message">Team 1</string>
+    <string name="team2_message">Team 2</string>
+    <string name="free_throw">Free \nthrow</string>
+    <string name="edit_text_hint">7 characters max</string>
+    <string name="subject_email">Score results</string>
+</resources>

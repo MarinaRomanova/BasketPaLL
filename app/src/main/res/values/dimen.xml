@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="ordinary_margin">20dp</dimen>
+    <dimen name="text_margin">12dp</dimen>
+    <dimen name="small_margin">20dp</dimen>
+    <dimen name="round_button_margin">10dp</dimen>
+    <dimen name="round_button_size">55dp</dimen>
+    <dimen name="ordinary_button_size">120dp</dimen>
+</resources>
